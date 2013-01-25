@@ -1,7 +1,0 @@
-#!/bin/bash
-git add .
-echo "Kommentar:"
-read com
-git commit -m "$com"
-git push
-exit
